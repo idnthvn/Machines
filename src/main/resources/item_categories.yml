@@ -82,6 +82,7 @@ crafting:
     - machines:solar_cell
     - machines:scaffolding
     - machines:netherite_drill
+    - machines:kineticgenerator
 
 tools:
   icon: machines:star_axe
