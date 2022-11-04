@@ -1,0 +1,13 @@
+{
+  "result": "nova:kineticgenerator",
+  "shape": [
+    "pcp",
+    "cic",
+    "pcp"
+  ],
+  "ingredients"; {
+    "p": "nova:iron_plate",
+    "c": "minecraft:copper_ingot",
+    "i": "minecraft:iron_ingot"
+  }
+}
