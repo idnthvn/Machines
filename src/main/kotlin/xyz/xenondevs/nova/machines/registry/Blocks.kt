@@ -92,6 +92,7 @@ object Blocks {
     val ELITE_MACHINE_FRAME = registerBlock(Machines, "elite_machine_frame", MACHINE_FRAME)
     val ULTIMATE_MACHINE_FRAME = registerBlock(Machines, "ultimate_machine_frame", MACHINE_FRAME)
     val CREATIVE_MACHINE_FRAME = registerBlock(Machines, "creative_machine_frame", MACHINE_FRAME)
+    val KINETIC_GENERATOR = registerBlock(Machines, "kinetic_generator", STONE)
     
     // Tree Miniatures
     val OAK_TREE_MINIATURE = registerItem(Machines, "oak_tree_miniature")
